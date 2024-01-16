@@ -2,9 +2,6 @@
 
 <!--
 **Anshu1155/Anshu1155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m @Anshu1155 
 - 🌱 I’m currently learning SQL,Python,Tableau,Power BI,R-Programming
 - 👯 I’m interested in data analyst/Business Analyst roles
